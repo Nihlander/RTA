@@ -44,7 +44,7 @@ To run an entire directory of RTAs, the easiest way is to use the script-runner 
 
 **All operating systems:**
 ```commandline
-python run_rta.py
+python run_all.py
 ```
 
 Alternatively, you can use a loop:
